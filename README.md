@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<b>Languages</b>
+<ol>
+  <li>Python!</li>
+  <li>Java</li>
+  <li>SQLite</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Java Script</li>
+</ol>
