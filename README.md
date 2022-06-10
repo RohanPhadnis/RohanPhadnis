@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=RohanPhadnis&show_icons=true">
-<imp src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPhadnis&show_icons=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPhadnis&show_icons=true&layout=compact">
