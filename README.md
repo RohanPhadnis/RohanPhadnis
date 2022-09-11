@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<strong>Languages</strong> I have proficiency in numerous languages including Python, Java, SQLite, HTML, CSS, JavaScript, C.<br>
-<strong>Technologies</strong> I have used various software tools including Pycharm, GitHub, Atom, Android Studio, Sketchup.<br>
-<strong>Frameworks</strong> I have experience in TensorFlow, Keras, Flask, Pygame, TK Inter.<br>
+<strong>Languages:</strong> Python, Java, SQLite, HTML, CSS, JavaScript, C.<br>
+<strong>Technologies:</strong> Pycharm, GitHub, Atom, Android Studio, Sketchup.<br>
+<strong>Frameworks:</strong> TensorFlow, Keras, Flask, Pygame, TK Inter.<br>
+<strong>Involvements:</strong> RoboJackets, The GT Agency<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=RohanPhadnis&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPhadnis&show_icons=true&layout=compact&hide=processing&langs_count=8">
