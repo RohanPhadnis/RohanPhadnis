@@ -20,5 +20,8 @@ Here are some ideas to get you started:
 <strong>Frameworks:</strong> TensorFlow, Keras, Flask, Pygame, TK Inter.<br>
 <strong>Involvements:</strong> RoboJackets, The GT Agency<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RohanPhadnis&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanPhadnis&show_icons=true&layout=compact&hide=processing&langs_count=8">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanPhadnis&show_icons=true&theme=dark&locale=en&layout=compact" alt="RohanPhadnis" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanPhadnis&show_icons=true&theme=dark&locale=en" alt="RohanPhadnis" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanPhadnis&theme=dark" alt="RohanPhadnis" /></p>
