@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <strong>Frameworks:</strong> TensorFlow, Keras, Flask, Pygame, TK Inter.<br>
 <strong>Involvements:</strong> RoboJackets, The GT Agency<br>
 
+
+<img src="https://komarev.com/ghpvc/?username = RohanPhadnis"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanPhadnis&show_icons=true&theme=dark&locale=en&layout=compact" alt="RohanPhadnis" />
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanPhadnis&show_icons=true&theme=dark&locale=en" alt="RohanPhadnis" />
