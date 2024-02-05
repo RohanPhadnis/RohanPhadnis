@@ -14,7 +14,7 @@
 
 <hr>
 
-<strong>Languages:</strong> Python, Java, SQLite, HTML, CSS, JavaScript, C.<br>
+<strong>Languages:</strong> Python, C/C++, Java, Assembly, SQL, HTML, CSS, JavaScript<br>
 <strong>Technologies:</strong> Pycharm, GitHub, Atom, Android Studio, Sketchup.<br>
 <strong>Frameworks:</strong> TensorFlow, Keras, Flask, Pygame, TK Inter.<br>
 <strong>Involvements:</strong> RoboJackets, The GT Agency<br>
