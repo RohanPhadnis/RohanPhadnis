@@ -27,3 +27,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanPhadnis&show_icons=true&theme=dark&locale=en" alt="RohanPhadnis" />
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanPhadnis&theme=dark" alt="RohanPhadnis" />
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RohanPhadnis)](https://git.io/streak-stats)
